@@ -33,6 +33,8 @@ Hacking methods for automating electronics.
 [Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards)
 <br>
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
+<br>
+[Rocket Programmer](https://github.com/sourceduty/Rocket_Programmer)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
