@@ -24,6 +24,10 @@ Hacking methods for automating electronics.
 ![IoT Hacks](https://github.com/user-attachments/assets/88266bab-8198-40b6-9cd1-081f00055b1e)
 
 #
+
+![Hacker IoT](https://github.com/user-attachments/assets/5dfddd9a-ac8e-4c90-b3e9-6cbaf4bfb0d7)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
