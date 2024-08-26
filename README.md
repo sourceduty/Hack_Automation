@@ -31,6 +31,8 @@ Hacking methods for automating electronics.
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
 [Microcontroller Boards](https://github.com/sourceduty/Microcontroller_Boards)
+<br>
+[Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
