@@ -12,6 +12,8 @@ Ethical and responsible practices are a core principle of Hack Automation. While
 
 ................................................................................................................
 
+![Coding](https://github.com/user-attachments/assets/e65802fb-8ea2-428f-a958-8f2e8bc9f665)
+
 ```
 Simulate hacking into a secure system.
 Automate a penetration test.
