@@ -37,6 +37,8 @@ Hacking methods for automating electronics.
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
 [Rocket Programmer](https://github.com/sourceduty/Rocket_Programmer)
+<br>
+[AI + IoT](https://github.com/sourceduty/AI_IoT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
