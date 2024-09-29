@@ -41,6 +41,8 @@ Hacking methods for automating electronics.
 [AI + IoT](https://github.com/sourceduty/AI_IoT)
 <br>
 [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
+<br>
+[Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
