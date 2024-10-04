@@ -1,4 +1,4 @@
-![Hack Automation](https://github.com/user-attachments/assets/c262b25a-97fc-47a0-a49d-499f1aba4043)
+![Q](https://github.com/user-attachments/assets/4235f81b-784c-4fe2-8039-fcf95afba74c)
 
 >  Plan and develop automated hacks for electronics and systems.
 
@@ -24,6 +24,10 @@ Hacking methods for automating electronics.
 #
 
 ![Hacker IoT](https://github.com/user-attachments/assets/5dfddd9a-ac8e-4c90-b3e9-6cbaf4bfb0d7)
+
+#
+
+![Hack Automation](https://github.com/user-attachments/assets/c262b25a-97fc-47a0-a49d-499f1aba4043)
 
 #
 ### Related Links
